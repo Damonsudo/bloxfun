@@ -1,2 +1,1 @@
-# bloxfun
-bloxfun cbro models
+Counter Blox Custom models script
